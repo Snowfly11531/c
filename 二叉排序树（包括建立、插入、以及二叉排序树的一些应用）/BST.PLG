@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BST - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\hasee\AppData\Local\Temp\RSPE228.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/BST.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\hasee\Desktop\c\二叉排序树（包括建立、插入、以及二叉排序树的一些应用）\treetobitree.cpp"
+]
+Creating command line "cl.exe @C:\Users\hasee\AppData\Local\Temp\RSPE228.tmp" 
+<h3>Output Window</h3>
+Compiling...
+treetobitree.cpp
+
+
+
+<h3>Results</h3>
+treetobitree.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
